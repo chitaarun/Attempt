@@ -20,6 +20,23 @@ int b=7;
  
  System.out.println("sun is " +7);
  
+ 
+ //we want to multiply 5,7,10
+ 
+ //variable x,y,z declare
+ int x=5;
+ int y=7;
+ int z=10;
+ 
+int multiply =x*y*z;
+
+int d =5*7*10 ;
+d=350 ;
+
+System.out.println("d ="+350);
+
+
+ 
 
 	}
 
